@@ -1,3 +1,5 @@
+//Searching an element in a sorted array
+
 #include<bits/stdc++.h>
 using namespace std;
 const int N = 1e5 + 7;
