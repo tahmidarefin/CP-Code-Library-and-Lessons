@@ -1,1 +1,1 @@
-# Code Library for Competitive Programming
+# Code Library and Lessons for Competitive Programming
