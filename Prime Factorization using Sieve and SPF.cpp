@@ -1,6 +1,7 @@
 /*
 Finding prime factorization of n using Sieve and Smallest Prime Factor
 */
+
 #include<bits/stdc++.h>
 using namespace std;
 const int N = 2e6 + 7;
